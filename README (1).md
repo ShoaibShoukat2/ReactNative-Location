@@ -17,7 +17,8 @@ Install expo-locaton with npm
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![locationSS](https://github.com/ShoaibShoukat2/ReactNative-Location/assets/107969167/7e01be9b-018e-4e7d-bbe3-8a1b204665ff)
+
 
 
 ## Components Used
